@@ -1,5 +1,7 @@
 # Checkpoint-edge-computing
 
+Integrantes: Debora Amaral - 550412 / Gabriel Sugayama - 99265 / Isabelle Cruz - 97717 / Lívia Namba - 97819
+
 Projeto para a Vinheria Agnello utilizando arduinos
 
 O sistema elaborado é um sensor de luminosidade, para isso foi utilizado um fotorresistor(LDR).
